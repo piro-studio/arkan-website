@@ -19,7 +19,7 @@
   }
 
   body {
-    background-color: var(--color-bone);
+    background-color: #FAFAF8;
     color: var(--color-ink);
     font-family: var(--font-vazirmatn), system-ui, sans-serif;
     font-size: 1.0625rem; /* 17px */

@@ -36,8 +36,8 @@ export default function Process() {
     <Section id="process" surface="sand">
       <SectionHeading
         eyebrow="فرایند همکاری"
-        title="از اولین تماس تا نقشه‌ی راه، مسیری روشن"
-        description="می‌دانید در هر قدم چه اتفاقی می‌افتد. بدون ابهام، بدون تعهد سنگین در ابتدا."
+        title="از اولین تماس تا تحقق نتیجه"
+        description="در هر قدم می‌دانید چه اتفاقی می‌افتد — بدون ابهام، بدون تعهد سنگین در ابتدا."
       />
 
       <ol className="mt-14 grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">

@@ -35,8 +35,8 @@ export default function Pillars() {
     <Section id="pillars" surface="pine">
       <SectionHeading
         eyebrow="متدولوژی آرکان"
-        title="چهار رکنِ یک رشد که می‌ماند"
-        description="«ارکان» جمع «رکن» است؛ پایه‌هایی که رشد پایدار بر آن‌ها بنا می‌شود. ما هر چهار رکن را با هم می‌بینیم، نه جدا از هم."
+        title="چهار رکنی که رشد پایدار بر آن‌ها استوار است"
+        description="رشد واقعی حاصل تعادل همه ارکان است — نه پیشرفت در یک جبهه و غفلت از بقیه."
         className="[&_h2]:text-bone [&_p]:text-bone/75"
       />
 
@@ -71,8 +71,7 @@ export default function Pillars() {
 
       <Reveal>
         <p className="mt-10 max-w-2xl text-body leading-8 text-bone/80">
-          آرکان فقط توصیه نمی‌دهد؛ تا مرحله‌ی اجرا کنار شما می‌ماند تا این چهار رکن در
-          عمل، به نتیجه تبدیل شوند.
+          ما تنها مشاوره نمی‌دهیم — تا زمانی که هر چهار رکن در کسب‌وکار شما محکم نشود، کنار می‌مانیم.
         </p>
       </Reveal>
     </Section>

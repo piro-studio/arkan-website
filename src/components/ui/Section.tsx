@@ -33,7 +33,7 @@ export function SectionHeading({
           {eyebrow}
         </p>
       )}
-      <h2 className="text-[1.75rem] font-bold leading-tight sm:text-h2">{title}</h2>
+      <h2 className="text-[1.25rem] font-bold leading-tight sm:text-[1.5rem] md:text-[1.75rem]">{title}</h2>
       {description && (
         <p className="mt-4 text-body text-slate">{description}</p>
       )}

@@ -23,8 +23,10 @@ export default function Hero() {
           </Reveal>
 
           <Reveal delay={80}>
-            <h1 className="text-[2.25rem] font-bold leading-[1.25] sm:text-[2.75rem] lg:text-h1">
-              استراتژی بدون اجرا یک رویاست — ما تا تحقق آن کنارتان می‌مانیم.
+            <h1 className="text-[1.5rem] font-bold leading-[1.25] sm:text-[1.875rem] lg:text-[2.25rem]">
+              استراتژی بدون اجرا یک رویاست
+              <br />
+              ما تا تحقق آن کنارتان می‌مانیم.
             </h1>
           </Reveal>
 

@@ -114,8 +114,8 @@ export default function ConsultationForm() {
               <span className="h-px w-6 bg-brass" aria-hidden="true" />
               درخواست مشاوره
             </p>
-            <h2 className="text-[1.75rem] font-bold leading-tight sm:text-h2">
-              اولین قدم برای رشد پایدار را همین‌جا بردارید
+            <h2 className="text-[1.25rem] font-bold leading-tight sm:text-[1.5rem] md:text-[1.75rem]">
+              یک فرم کوتاه، یک مسیر روشن
             </h2>
             <p className="mt-4 text-body text-slate">
               فرم را پر کنید؛ تیم آرکان ظرف ۲۴ ساعت کاری با شما تماس می‌گیرد. تماس

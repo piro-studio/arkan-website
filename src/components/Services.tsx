@@ -46,8 +46,8 @@ export default function Services() {
     <Section id="services" surface="bone">
       <SectionHeading
         eyebrow="خدمات آرکان"
-        title="جایی که گیر کرده‌اید، دقیقاً همان‌جا کنارتان هستیم"
-        description="پنج حوزه‌ی تخصصی که بیشترِ کسب‌وکارهای در حال رشد در آن به تکیه‌گاه نیاز دارند."
+        title="در هر مرحله‌ای که کسب‌وکارتان متوقف شده — ما دقیقاً همان‌جا حضور داریم."
+        description="پنج حوزه‌ای که ضعف در هر کدام، رشد کل کسب‌وکار را متوقف می‌کند."
       />
 
       <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">

@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import ChatWidget from "@/components/ChatWidget";
 
 // فونت عناوین — استعداد
 const estedad = localFont({
@@ -96,6 +97,7 @@ export default function RootLayout({
           پرش به محتوای اصلی
         </a>
         {children}
+        <ChatWidget />
       </body>
     </html>
   );

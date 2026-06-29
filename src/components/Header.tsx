@@ -12,7 +12,6 @@ const NAV_LINKS = [
   { href: "#pillars", label: "چهار رکن" },
   { href: "#process", label: "فرایند همکاری" },
   { href: "#about", label: "درباره‌ی ما" },
-  { href: "/consultant", label: "مشاور هوشمند", highlight: true },
 ];
 
 export default function Header() {

@@ -60,11 +60,7 @@ export default function Header() {
               <li key={link.href}>
                 <a
                   href={link.href}
-                  className={`rounded text-[0.95rem] transition-colors ${
-                    link.highlight
-                      ? "font-semibold text-[#1D9E75] hover:opacity-75"
-                      : "text-ink/80 hover:text-pine"
-                  }`}
+                  className="rounded text-[0.95rem] transition-colors text-ink/80 hover:text-pine"
                 >
                   {link.label}
                 </a>
@@ -110,9 +106,7 @@ export default function Header() {
                   <a
                     href={link.href}
                     onClick={() => setMenuOpen(false)}
-                    className={`block border-b border-sand/70 py-3.5 text-body ${
-                      link.highlight ? "font-semibold text-[#1D9E75]" : "text-ink/90"
-                    }`}
+                    className="block border-b border-sand/70 py-3.5 text-body text-ink/90"
                   >
                     {link.label}
                   </a>
